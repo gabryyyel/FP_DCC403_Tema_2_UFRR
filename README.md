@@ -24,7 +24,7 @@ Para executar o projeto, é necessário um ambiente Linux nativo (ou WSL no Wind
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/FP_DCC403_Tema_2_UFRR.git](https://github.com/seu-usuario/FP_DCC403_Tema_2_UFRR.git)
+   git clone [https://github.com/gabryyyel/FP_DCC403_Tema_2_UFRR.git](https://github.com/gabryyyel/FP_DCC403_Tema_2_UFRR.git)
    cd FP_DCC403_Tema_2_UFRR
 
    Compile o código utilizando o utilitário Make:
